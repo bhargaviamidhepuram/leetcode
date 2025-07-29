@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0022-generate-parentheses) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/bhargaviamidhepuram/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Bit Manipulation
 |  |
@@ -44,8 +45,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0022-generate-parentheses) |
 ## Math
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0012-integer-to-roman) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
