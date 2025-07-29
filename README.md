@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/bhargaviamidhepuram/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Greedy
@@ -41,5 +42,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Math
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
