@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0141-linked-list-cycle](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0141-linked-list-cycle) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/bhargaviamidhepuram/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Greedy
 |  |
@@ -123,4 +124,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0141-linked-list-cycle) |
+## Two Pointers
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
