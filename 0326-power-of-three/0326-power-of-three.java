@@ -1,10 +1,16 @@
 class Solution {
     public boolean isPowerOfThree(int n) {
-        for(int i = 1; i * i * i <= n; i++){
-            if(i * i * i == n){
-                return true;
-            }
+        if(n == 1){
+            return true;
         }
-        return false;
+        else if(n == 0){
+            return false;
+        }
+        else if(n % 3 != 0){
+            return false;
+        }
+        else{
+            return isPowerOfThree(n/3);
+        }
     }
 }
