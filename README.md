@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/bhargaviamidhepuram/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/bhargaviamidhepuram/leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -68,12 +69,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0392-is-subsequence) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Math
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0012-integer-to-roman) |
 | [0070-climbing-stairs](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0070-climbing-stairs) |
 | [0326-power-of-three](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0326-power-of-three) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1448-maximum-69-number](https://github.com/bhargaviamidhepuram/leetcode/tree/master/1448-maximum-69-number) |
 ## Dynamic Programming
 |  |
