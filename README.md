@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0067-add-binary) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/bhargaviamidhepuram/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0067-add-binary](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0392-is-subsequence) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0012-integer-to-roman) |
+| [0067-add-binary](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0070-climbing-stairs) |
 | [0326-power-of-three](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0326-power-of-three) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0067-add-binary) |
 | [3790-fruits-into-baskets-ii](https://github.com/bhargaviamidhepuram/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
