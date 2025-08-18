@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0344-reverse-string](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0392-is-subsequence) |
 ## Math
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0392-is-subsequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/bhargaviamidhepuram/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Stack
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0141-linked-list-cycle) |
 | [0344-reverse-string](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0392-is-subsequence) |
 ## Recursion
 |  |
 | ------- |
