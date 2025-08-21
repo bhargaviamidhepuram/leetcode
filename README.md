@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0012-integer-to-roman) |
 | [0067-add-binary](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0070-climbing-stairs) |
+| [0258-add-digits](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0326-power-of-three) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1448-maximum-69-number](https://github.com/bhargaviamidhepuram/leetcode/tree/master/1448-maximum-69-number) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0258-add-digits) |
 | [3790-fruits-into-baskets-ii](https://github.com/bhargaviamidhepuram/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
@@ -198,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0182-duplicate-emails](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0183-customers-who-never-order) |
 | [0196-delete-duplicate-emails](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0196-delete-duplicate-emails) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
