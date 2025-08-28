@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2432-number-of-zero-filled-subarrays](https://github.com/bhargaviamidhepuram/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/bhargaviamidhepuram/leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/bhargaviamidhepuram/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/bhargaviamidhepuram/leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/bhargaviamidhepuram/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/bhargaviamidhepuram/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/bhargaviamidhepuram/leetcode/tree/master/3790-fruits-into-baskets-ii) |
