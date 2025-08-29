@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0067-add-binary) |
+| [0338-counting-bits](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0338-counting-bits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/bhargaviamidhepuram/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0392-is-subsequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/bhargaviamidhepuram/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
