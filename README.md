@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0303-range-sum-query-immutable](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0414-third-maximum-number](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0414-third-maximum-number) |
 | [0463-island-perimeter](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0777-toeplitz-matrix](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0777-toeplitz-matrix) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0015-3sum) |
+| [0414-third-maximum-number](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0414-third-maximum-number) |
 | [2887-sort-vowels-in-a-string](https://github.com/bhargaviamidhepuram/leetcode/tree/master/2887-sort-vowels-in-a-string) |
 ## Matrix
 |  |
