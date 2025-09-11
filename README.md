@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0278-first-bad-version](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/bhargaviamidhepuram/leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3790-fruits-into-baskets-ii](https://github.com/bhargaviamidhepuram/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Sliding Window
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 ## String Matching
 |  |
 | ------- |
