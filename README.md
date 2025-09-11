@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0258-add-digits) |
+| [0292-nim-game](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0326-power-of-three) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/bhargaviamidhepuram/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0292-nim-game) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/bhargaviamidhepuram/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Memoization
 |  |
@@ -278,4 +280,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0777-toeplitz-matrix](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0777-toeplitz-matrix) |
 | [0861-flipping-an-image](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0898-transpose-matrix) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
