@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0029-divide-two-integers) |
+| [0050-powx-n](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0258-add-digits) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0206-reverse-linked-list) |
