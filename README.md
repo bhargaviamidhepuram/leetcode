@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0204-count-primes) |
 | [0303-range-sum-query-immutable](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0414-third-maximum-number](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0414-third-maximum-number) |
 | [0463-island-perimeter](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0463-island-perimeter) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0204-count-primes) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/bhargaviamidhepuram/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Binary Search
 |  |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0326-power-of-three) |
@@ -277,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0258-add-digits) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/bhargaviamidhepuram/leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Interactive
