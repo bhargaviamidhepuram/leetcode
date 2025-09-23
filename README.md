@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0067-add-binary](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0067-add-binary) |
+| [0165-compare-version-numbers](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0165-compare-version-numbers) |
 | [0344-reverse-string](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0392-is-subsequence) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0015-3sum) |
 | [0141-linked-list-cycle](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0143-reorder-list) |
+| [0165-compare-version-numbers](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0344-reverse-string) |
