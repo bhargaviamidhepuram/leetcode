@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0141-linked-list-cycle](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0146-lru-cache) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0940-fruit-into-baskets](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0940-fruit-into-baskets) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/bhargaviamidhepuram/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0146-lru-cache) |
 | [0203-remove-linked-list-elements](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0234-palindrome-linked-list) |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0146-lru-cache) |
 | [0303-range-sum-query-immutable](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0303-range-sum-query-immutable) |
 ## Prefix Sum
 |  |
@@ -365,4 +368,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0386-lexicographical-numbers) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
