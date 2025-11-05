@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0015-3sum) |
 | [0053-maximum-subarray](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0053-maximum-subarray) |
+| [0088-merge-sorted-array](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0143-reorder-list) |
 | [0165-compare-version-numbers](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0165-compare-version-numbers) |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0088-merge-sorted-array) |
 | [0414-third-maximum-number](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0455-assign-cookies) |
 | [2887-sort-vowels-in-a-string](https://github.com/bhargaviamidhepuram/leetcode/tree/master/2887-sort-vowels-in-a-string) |
