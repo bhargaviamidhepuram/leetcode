@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0275-h-index-ii](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0275-h-index-ii) |
 | [0303-range-sum-query-immutable](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0414-third-maximum-number](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0275-h-index-ii](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/bhargaviamidhepuram/leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
