@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/bhargaviamidhepuram/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1448-maximum-69-number](https://github.com/bhargaviamidhepuram/leetcode/tree/master/1448-maximum-69-number) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/bhargaviamidhepuram/leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [2288-count-operations-to-obtain-zero](https://github.com/bhargaviamidhepuram/leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/bhargaviamidhepuram/leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/bhargaviamidhepuram/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/bhargaviamidhepuram/leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0898-transpose-matrix) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/bhargaviamidhepuram/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2288-count-operations-to-obtain-zero](https://github.com/bhargaviamidhepuram/leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [3790-fruits-into-baskets-ii](https://github.com/bhargaviamidhepuram/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
