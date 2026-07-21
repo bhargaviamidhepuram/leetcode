@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0204-count-primes) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/bhargaviamidhepuram/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/bhargaviamidhepuram/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/bhargaviamidhepuram/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/bhargaviamidhepuram/leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/bhargaviamidhepuram/leetcode/tree/master/2887-sort-vowels-in-a-string) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/bhargaviamidhepuram/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/bhargaviamidhepuram/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
 |  |
