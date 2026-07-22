@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0504-base-7](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0504-base-7) |
+| [0520-detect-capital](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0520-detect-capital) |
 | [0812-rotate-string](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0812-rotate-string) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/bhargaviamidhepuram/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/bhargaviamidhepuram/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
