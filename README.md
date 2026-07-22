@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0434-number-of-segments-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0504-base-7](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0504-base-7) |
 | [0812-rotate-string](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0812-rotate-string) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/bhargaviamidhepuram/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0459-repeated-substring-pattern](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0572-subtree-of-another-tree](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0812-rotate-string](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0812-rotate-string) |
 ## Hash Function
