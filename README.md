@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-bitwise-ors-of-subarrays](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0940-fruit-into-baskets) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/bhargaviamidhepuram/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bhargaviamidhepuram/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/bhargaviamidhepuram/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/bhargaviamidhepuram/leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1646-kth-missing-positive-number](https://github.com/bhargaviamidhepuram/leetcode/tree/master/1646-kth-missing-positive-number) |
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0455-assign-cookies) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bhargaviamidhepuram/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/bhargaviamidhepuram/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/bhargaviamidhepuram/leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2887-sort-vowels-in-a-string](https://github.com/bhargaviamidhepuram/leetcode/tree/master/2887-sort-vowels-in-a-string) |
@@ -471,4 +473,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bhargaviamidhepuram/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
