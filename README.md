@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/bhargaviamidhepuram/leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/bhargaviamidhepuram/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/bhargaviamidhepuram/leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3536-maximum-product-of-two-digits](https://github.com/bhargaviamidhepuram/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3830-find-closest-person](https://github.com/bhargaviamidhepuram/leetcode/tree/master/3830-find-closest-person) |
 ## Dynamic Programming
 |  |
@@ -458,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2887-sort-vowels-in-a-string](https://github.com/bhargaviamidhepuram/leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/bhargaviamidhepuram/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/bhargaviamidhepuram/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3536-maximum-product-of-two-digits](https://github.com/bhargaviamidhepuram/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Matrix
 |  |
 | ------- |
