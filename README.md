@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/bhargaviamidhepuram/leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/bhargaviamidhepuram/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/bhargaviamidhepuram/leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
+| [3731-find-missing-elements](https://github.com/bhargaviamidhepuram/leetcode/tree/master/3731-find-missing-elements) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/bhargaviamidhepuram/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/bhargaviamidhepuram/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Backtracking
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/bhargaviamidhepuram/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/bhargaviamidhepuram/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/bhargaviamidhepuram/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3731-find-missing-elements](https://github.com/bhargaviamidhepuram/leetcode/tree/master/3731-find-missing-elements) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/bhargaviamidhepuram/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/bhargaviamidhepuram/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Greedy
@@ -460,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/bhargaviamidhepuram/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/bhargaviamidhepuram/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/bhargaviamidhepuram/leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/bhargaviamidhepuram/leetcode/tree/master/3731-find-missing-elements) |
 ## Matrix
 |  |
 | ------- |
