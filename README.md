@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0561-array-partition) |
 | [1448-maximum-69-number](https://github.com/bhargaviamidhepuram/leetcode/tree/master/1448-maximum-69-number) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/bhargaviamidhepuram/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/bhargaviamidhepuram/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/bhargaviamidhepuram/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## String
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/bhargaviamidhepuram/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/bhargaviamidhepuram/leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/bhargaviamidhepuram/leetcode/tree/master/2887-sort-vowels-in-a-string) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/bhargaviamidhepuram/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/bhargaviamidhepuram/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/bhargaviamidhepuram/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/bhargaviamidhepuram/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2288-count-operations-to-obtain-zero](https://github.com/bhargaviamidhepuram/leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/bhargaviamidhepuram/leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/bhargaviamidhepuram/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/bhargaviamidhepuram/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/bhargaviamidhepuram/leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/bhargaviamidhepuram/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3830-find-closest-person](https://github.com/bhargaviamidhepuram/leetcode/tree/master/3830-find-closest-person) |
