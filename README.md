@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0940-fruit-into-baskets](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0940-fruit-into-baskets) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/bhargaviamidhepuram/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/bhargaviamidhepuram/leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 ## Hash Table
 |  |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0940-fruit-into-baskets) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/bhargaviamidhepuram/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/bhargaviamidhepuram/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/bhargaviamidhepuram/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/bhargaviamidhepuram/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/bhargaviamidhepuram/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3731-find-missing-elements](https://github.com/bhargaviamidhepuram/leetcode/tree/master/3731-find-missing-elements) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0812-rotate-string](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0812-rotate-string) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/bhargaviamidhepuram/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/bhargaviamidhepuram/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/bhargaviamidhepuram/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/bhargaviamidhepuram/leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/bhargaviamidhepuram/leetcode/tree/master/2887-sort-vowels-in-a-string) |
@@ -496,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/bhargaviamidhepuram/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/bhargaviamidhepuram/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/bhargaviamidhepuram/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/bhargaviamidhepuram/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
