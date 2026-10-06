@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0561-array-partition) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1448-maximum-69-number](https://github.com/bhargaviamidhepuram/leetcode/tree/master/1448-maximum-69-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/bhargaviamidhepuram/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/bhargaviamidhepuram/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0657-robot-return-to-origin](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0812-rotate-string](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0812-rotate-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/bhargaviamidhepuram/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/bhargaviamidhepuram/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/bhargaviamidhepuram/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/bhargaviamidhepuram/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/bhargaviamidhepuram/leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Brainteaser
@@ -532,5 +535,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/bhargaviamidhepuram/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
