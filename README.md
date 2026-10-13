@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0645-set-mismatch](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0645-set-mismatch) |
 | [0777-toeplitz-matrix](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0777-toeplitz-matrix) |
 | [0861-flipping-an-image](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0898-transpose-matrix) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0461-hamming-distance](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0476-number-complement) |
+| [0645-set-mismatch](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0645-set-mismatch) |
 | [0861-flipping-an-image](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0861-flipping-an-image) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/bhargaviamidhepuram/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0575-distribute-candies](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0645-set-mismatch](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0645-set-mismatch) |
 | [0940-fruit-into-baskets](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0940-fruit-into-baskets) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/bhargaviamidhepuram/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/bhargaviamidhepuram/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -483,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0645-set-mismatch) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bhargaviamidhepuram/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/bhargaviamidhepuram/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/bhargaviamidhepuram/leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
