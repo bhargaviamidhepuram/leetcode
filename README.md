@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0645-set-mismatch) |
 | [0777-toeplitz-matrix](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0777-toeplitz-matrix) |
 | [0861-flipping-an-image](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0861-flipping-an-image) |
+| [0888-fair-candy-swap](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0888-fair-candy-swap) |
 | [0898-transpose-matrix](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0898-transpose-matrix) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0940-fruit-into-baskets) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0374-guess-number-higher-or-lower](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0888-fair-candy-swap](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0888-fair-candy-swap) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/bhargaviamidhepuram/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/bhargaviamidhepuram/leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1646-kth-missing-positive-number](https://github.com/bhargaviamidhepuram/leetcode/tree/master/1646-kth-missing-positive-number) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0645-set-mismatch) |
+| [0888-fair-candy-swap](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0888-fair-candy-swap) |
 | [0940-fruit-into-baskets](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0940-fruit-into-baskets) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/bhargaviamidhepuram/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/bhargaviamidhepuram/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -487,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0645-set-mismatch) |
+| [0888-fair-candy-swap](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0888-fair-candy-swap) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bhargaviamidhepuram/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/bhargaviamidhepuram/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/bhargaviamidhepuram/leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
