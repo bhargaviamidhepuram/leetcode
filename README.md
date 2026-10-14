@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/bhargaviamidhepuram/leetcode/tree/master/1448-maximum-69-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/bhargaviamidhepuram/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/bhargaviamidhepuram/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/bhargaviamidhepuram/leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/bhargaviamidhepuram/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## String
 |  |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/bhargaviamidhepuram/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/bhargaviamidhepuram/leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/bhargaviamidhepuram/leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/bhargaviamidhepuram/leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3830-find-closest-person](https://github.com/bhargaviamidhepuram/leetcode/tree/master/3830-find-closest-person) |
 ## Dynamic Programming
 |  |
