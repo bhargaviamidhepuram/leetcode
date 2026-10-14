@@ -1,8 +1,6 @@
 class Node{
-    int key;
-    int value;
-    Node next;
-    Node prev;
+    Node next, prev;
+    int key,  value;
     Node(int key, int value){
         this.key = key;
         this.value = value;
@@ -10,18 +8,17 @@ class Node{
         this.prev = null;
     }
 }
-class LRUCache {
+class LRUCache{
     int capacity;
     Node head, tail;
     HashMap<Integer, Node> hm;
-
-    public LRUCache(int capacity) {
+    public LRUCache(int capacity){
         this.capacity = capacity;
-        head = new Node(0,0);
-        tail = new Node(0,0);
+        head = new Node(0, 0);
+        tail = new Node(0, 0);
+        hm = new HashMap<>();
         head.next = tail;
         tail.prev = head;
-        hm = new HashMap<>();
     }
     public void add(Node n){
         n.next = head.next;
@@ -30,20 +27,19 @@ class LRUCache {
         head.next = n;
     }
     public void delete(Node n){
-        n.prev.next = n.next;
         n.next.prev = n.prev;
+        n.prev.next = n.next;
     }
-    public int get(int key) {
+    public int get(int key){
         if(hm.containsKey(key)){
-            Node exist = hm.get(key);
-            delete(exist);
-            add(exist);
-            return exist.value;
+            Node n = hm.get(key);
+            delete(n);
+            add(n);
+            return n.value;
         }
         return -1;
     }
-    
-    public void put(int key, int value) {
+    public void put(int key, int value){
         if(hm.containsKey(key)){
             delete(hm.get(key));
             hm.remove(key);
@@ -52,12 +48,13 @@ class LRUCache {
         hm.put(key, newnode);
         add(newnode);
         if(hm.size() > capacity){
-            Node m = tail.prev;
-            delete(m);
-            hm.remove(m.key);
+            Node n = tail.prev;
+            delete(n);
+            hm.remove(n.key);
         }
     }
 }
+
 
 /**
  * Your LRUCache object will be instantiated and called as such:
