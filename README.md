@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0260-single-number-iii) |
+| [0274-h-index](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0300-longest-increasing-subsequence) |
@@ -505,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0229-majority-element-ii) |
+| [0274-h-index](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0274-h-index) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0455-assign-cookies) |
@@ -576,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0274-h-index) |
 | [0561-array-partition](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0561-array-partition) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bhargaviamidhepuram/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/bhargaviamidhepuram/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
