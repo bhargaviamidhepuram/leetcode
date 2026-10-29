@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0275-h-index-ii](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0146-lru-cache) |
 | [0187-repeated-dna-sequences](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0187-repeated-dna-sequences) |
+| [0229-majority-element-ii](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0229-majority-element-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0575-distribute-candies](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0575-distribute-candies) |
@@ -500,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0229-majority-element-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0455-assign-cookies) |
@@ -548,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0229-majority-element-ii) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/bhargaviamidhepuram/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/bhargaviamidhepuram/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/bhargaviamidhepuram/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -594,4 +598,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/bhargaviamidhepuram/leetcode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
